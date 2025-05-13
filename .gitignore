@@ -1,0 +1,9 @@
+# .gitignore
+.env
+data/
+.venv/
+models/lr_cv_tuned.joblib
+feature_importance.csv
+reddit_comments_with_predictions.csv
+reddit_preds_for_examination.xlsx
+reddit_preds_raw.xlsx
